@@ -152,7 +152,25 @@
 
 ###(二)發展遠距教育：教育部
 ![](https://lh6.googleusercontent.com/oTWX_aPT1YFjY-ISd1XfcizlJgllw8MxU9WTCIRGyM-Swja7xQe__SXFGzbWawJzNQZFy_oeYCU=w1256-h779)
+![](https://lh3.googleusercontent.com/8Dwlqk6mn_a71_1OX4U9UslTJzyPCe6OxtkwFuvLlNZk2NAlqkxCb9Ui6RC6AB20VNCQ2RvrXjQ=w1256-h779)
 
+###(三)推動遠距醫療照護：衛生福利部
+![](https://lh3.googleusercontent.com/4x5yxsAAxsYrZuQRFND2Ni13l9sNr7WL3a-AYuP-jbnyEWP2ahMRXJllN1gOGWA52d3PXVNVARI=w1256-h779)
+![](https://lh5.googleusercontent.com/xoHlRO-YS-0IgnCmxypXyQKx_4fAfEjZOpxi5Mc03ARqwq2chNBnHoTPjMr5R10Zpoi4RqFBi4c=w1256-h779)
+
+##三、目標三：促進電子商務環境的安全與安心
+###(一)推動消費者跨域交易紛爭解決機制：行政院消費者保護處
+![](https://lh3.googleusercontent.com/vk6Ju1ZWBm0G3ZduK_yHItOl5TkdJQ5mROXCuC_-tWd7rxhue_F_SRsTB50l-9n8M1icfxi3ZFs=w1256-h779)
+
+###(二)強化網路公民參與機制：國家發展委員會
+![](https://lh3.googleusercontent.com/oVaqvR1D8s9FDMyTRAZKiszgAAoRkK2Ek2A_W5Ks9zFi_q10r5s-SL-Fw3VS0ntnJvQn47xSh6k=w1256-h779)
+
+###(三)落實政府資料開放：國家發展委員會
+![](https://lh4.googleusercontent.com/T77IMJBH3V_z2cqilNolX6dw7Dl7KMJNsQh34yf3SrJmfyvzmPKoafDnx5g5rLu77LIeFf4DyqY=w1256-h779)
+![](https://lh4.googleusercontent.com/6dXnI6EI8tpk41NIhrrEossQWVeStxWKNS8f5qfQIlGac1cPjDDCs-Hrpmw9oteU1YkjFne3pVY=w1256-h779)
+
+###(四)防範網路犯罪：法務部
+![](https://lh3.googleusercontent.com/RAPFFS5ZXo9Ne9HqJmpyUBDcS51Jwhnmixpmi-miIcwqYyljPz8-Pp0cvzSUeq68U3yNaFYccJw=w1256-h779)
 
 #柒、結語
 虛擬世界具有持續且迅速變動之特性，其相關法規範亦需隨時檢視、與時俱進。我國具有優良之網路科技技術及人才，未來面對全球市場、全球資金及全球人才之快速流動、競爭，應積極運用既有優勢與利基，並以前瞻、開放、創新之觀點，加速相關法規之調適，以促進相關產業之蓬勃發展。本方案所列之部會分工為本工作之開端，將透過持續檢視相關法令，以建構足以面對虛擬世界發展之法制環境。
