@@ -136,6 +136,24 @@
 ###(一)調適公司法制:經濟部
 ![](https://lh6.googleusercontent.com/RtRNRzWd6xBNiM4MuWCSGFAZe0VDYdwtXsyfuenXM0N3-_wqJ5gGRJD7fDuon2snx6LtOty18fM=w1256-h779)
 
+###(二)提升網路金融服務:金管會
+
+![](https://lh5.googleusercontent.com/9w9xSCwXRxd_4An1bHM3Tm5B6LPf4_J7JvAZrsuQ42CEKzEA_8h7dhBYW3AGHWeta0Np6PwdAa4=w1256-h779)
+![](https://lh3.googleusercontent.com/Y8ciV_q45ahyl5KHZz5MO5vd9g03WNIPH57VUasSpqI_l-boyPyQQSNnV6jcnxTR1ARfTQHVImQ=w1256-h779)
+###(三)打造友善網路租稅環境：財政部
+![](https://lh5.googleusercontent.com/jLMxcH2BovGRMc8nFgUGa84UZWiGV4YCpn0h2IYG8rbuv9q78yDkcOMzRZGA5iDwp6k8UIWvFBY=w1256-h779)
+![](https://lh6.googleusercontent.com/4SS9eiUca9a2_YZx5srXU3-RiqxvLxcvbQG-FBdeNlXieKfK6Hw3Fe3n-DFyAkrQksrjDflzBZc=w1256-h779)
+
+##二、目編二:型塑臺灣數位生活型態的未來願景
+###(一)調適勞動法制：勞動部
+![](https://lh5.googleusercontent.com/9WU6vtWukp3Mxl_2x__KPvB5NJY28WjRdWbX5AWcvi4iKVa2_9HERfbDHUTa2R3-X66sIE_S74o=w1256-h779)
+![](https://lh5.googleusercontent.com/dbwyK8jksawcrkcZb06R30wKl0Ng02GovtvVvDBHj056uZScr0K6POnAJOQhJd7yGoO4LaWfAN8=w1256-h779)
+![](https://lh6.googleusercontent.com/ppbw3IGyw_SU1DHsYADfCAErneRQWyf27_ZQ_CsfS1TsEzK0HOQri1boapThA0IG37YkGOGIQ4c=w1256-h779)
+
+###(二)發展遠距教育：教育部
+![](https://lh6.googleusercontent.com/oTWX_aPT1YFjY-ISd1XfcizlJgllw8MxU9WTCIRGyM-Swja7xQe__SXFGzbWawJzNQZFy_oeYCU=w1256-h779)
+
+
 #柒、結語
 虛擬世界具有持續且迅速變動之特性，其相關法規範亦需隨時檢視、與時俱進。我國具有優良之網路科技技術及人才，未來面對全球市場、全球資金及全球人才之快速流動、競爭，應積極運用既有優勢與利基，並以前瞻、開放、創新之觀點，加速相關法規之調適，以促進相關產業之蓬勃發展。本方案所列之部會分工為本工作之開端，將透過持續檢視相關法令，以建構足以面對虛擬世界發展之法制環境。
 
