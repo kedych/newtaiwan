@@ -2,5 +2,16 @@
     "plugins": [
         "disqus"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "disqus": {
+            "plugins": [
+                "disqus"
+            ],
+            "pluginsConfig": {
+                "disqus": {
+                    "shortName": "newTaiwan"
+                }
+            }
+        }
+    }
 }
