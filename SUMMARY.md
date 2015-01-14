@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [簡介](README.md)
 * [基礎環境](infra.md)
 * [透明治理](gover.md)
 * [智慧生活](smart.md)
