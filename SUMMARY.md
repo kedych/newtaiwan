@@ -5,6 +5,6 @@
 * [透明治理](gover.md)
 * 智慧生活
 * 網路經濟
-* 智慧國土
+* [智慧國土](spatial.md)
 * spati.md
 
