@@ -124,11 +124,11 @@
 
 ###(二) 線上諮詢會議：
 規劃以「打造臺灣成為網路公司的樞紐」、「型塑臺灣數位生活型態的未來願景」及「促進電子商務環境之安全與安心」三大目標為主軸辦理線上諮詢會議，由各議題主政部會邀請學者專家共同討論，並邀請行政院青年顧問團參與，透過網路直播模式，使民眾線上即時表達意見，強化政策溝通，減少政策與民意落差。 
-![](https://lh6.googleusercontent.com/o3NBFM_5Lf9lChy-kpt6u_c1V4tq42mtkOuGh5bzfjvUToyOktDwpylzZREdghAKMfVToJUqhDM=w1256-h779)
+![](https://googledrive.com/host/0B1dxVSy0NgWdRHlkOEdxZnFYTnc)
 
 ###三、 虛擬世界法規調適檢視機制： 
 為持續運作、落實虛擬世界法規調適工作，並協調各部會就主政議題進行滾動式檢討，行政院將適時召開專案會議，由國發會(法制協調中心)擔任幕僚，並於必要時委請專業團隊提供法律及相關作業之協助。推動架構如下：
-![](https://lh4.googleusercontent.com/lgXDc9aI5Wv5qH8J2I8YFfmqhn9LKaL53tGxr-aIfb1C39PJACMxR2FOMxIKvSs0GXLoB8ZF008=w1256-h779)
+![](https://googledrive.com/host/0B1dxVSy0NgWdUnNrSzNJam9sRFE)
 
 ###四、 追蹤、管考各議題主政部會法規調適工作推動進度及成果 
 各部會應依具體規劃措施及期程，確實落實執行，國發會原則每3個月檢視各部會之執行進度，並協調各部會針對執行措施、期程及應修訂之法規進行滾動調整，另視實際執行狀況提報行政院專案會議。
@@ -136,43 +136,39 @@
 #陸、第一階段部會分工
 ##一、目編一:打造台灣成為網路公司的樞紐
 ###(一)調適公司法制:經濟部
-![](https://lh6.googleusercontent.com/RtRNRzWd6xBNiM4MuWCSGFAZe0VDYdwtXsyfuenXM0N3-_wqJ5gGRJD7fDuon2snx6LtOty18fM=w1256-h779)
+![](https://googledrive.com/host/0B1dxVSy0NgWdbXIzY1BFQkprUkU)
 
 ###(二)提升網路金融服務:金管會
-
-![](https://lh5.googleusercontent.com/9w9xSCwXRxd_4An1bHM3Tm5B6LPf4_J7JvAZrsuQ42CEKzEA_8h7dhBYW3AGHWeta0Np6PwdAa4=w1256-h779)
-![](https://lh3.googleusercontent.com/Y8ciV_q45ahyl5KHZz5MO5vd9g03WNIPH57VUasSpqI_l-boyPyQQSNnV6jcnxTR1ARfTQHVImQ=w1256-h779)
+![](https://googledrive.com/host/0B1dxVSy0NgWdZDd5RGladVY1eGc)
+![](https://googledrive.com/host/0B1dxVSy0NgWdaW5rVnA5MElBWDA)
 ###(三)打造友善網路租稅環境：財政部
-![](https://lh5.googleusercontent.com/jLMxcH2BovGRMc8nFgUGa84UZWiGV4YCpn0h2IYG8rbuv9q78yDkcOMzRZGA5iDwp6k8UIWvFBY=w1256-h779)
-![](https://lh6.googleusercontent.com/4SS9eiUca9a2_YZx5srXU3-RiqxvLxcvbQG-FBdeNlXieKfK6Hw3Fe3n-DFyAkrQksrjDflzBZc=w1256-h779)
-
+![](https://googledrive.com/host/0B1dxVSy0NgWdNkdQNGNMaGw3ajA)
+![](https://googledrive.com/host/0B1dxVSy0NgWdbm1vYktxamR6djg)
 ##二、目編二:型塑臺灣數位生活型態的未來願景
 ###(一)調適勞動法制：勞動部
-![](https://lh5.googleusercontent.com/9WU6vtWukp3Mxl_2x__KPvB5NJY28WjRdWbX5AWcvi4iKVa2_9HERfbDHUTa2R3-X66sIE_S74o=w1256-h779)
-![](https://lh5.googleusercontent.com/dbwyK8jksawcrkcZb06R30wKl0Ng02GovtvVvDBHj056uZScr0K6POnAJOQhJd7yGoO4LaWfAN8=w1256-h779)
-![](https://lh6.googleusercontent.com/ppbw3IGyw_SU1DHsYADfCAErneRQWyf27_ZQ_CsfS1TsEzK0HOQri1boapThA0IG37YkGOGIQ4c=w1256-h779)
+![](https://googledrive.com/host/0B1dxVSy0NgWdaVVERFpKdkRrYTg)
+![](https://googledrive.com/host/0B1dxVSy0NgWdT1htQjFZY3JHbEk)
+![](https://googledrive.com/host/0B1dxVSy0NgWdYVJkSXp2OFJ4Z1k)
 
 ###(二)發展遠距教育：教育部
-![](https://lh6.googleusercontent.com/oTWX_aPT1YFjY-ISd1XfcizlJgllw8MxU9WTCIRGyM-Swja7xQe__SXFGzbWawJzNQZFy_oeYCU=w1256-h779)
-![](https://lh3.googleusercontent.com/8Dwlqk6mn_a71_1OX4U9UslTJzyPCe6OxtkwFuvLlNZk2NAlqkxCb9Ui6RC6AB20VNCQ2RvrXjQ=w1256-h779)
+![](https://googledrive.com/host/0B1dxVSy0NgWdRnE4MUxNdlRUV0U)
+![](https://googledrive.com/host/0B1dxVSy0NgWdQ1RmSXFPLUladm8)
+
 
 ###(三)推動遠距醫療照護：衛生福利部
-![](https://lh3.googleusercontent.com/4x5yxsAAxsYrZuQRFND2Ni13l9sNr7WL3a-AYuP-jbnyEWP2ahMRXJllN1gOGWA52d3PXVNVARI=w1256-h779)
-![](https://lh5.googleusercontent.com/xoHlRO-YS-0IgnCmxypXyQKx_4fAfEjZOpxi5Mc03ARqwq2chNBnHoTPjMr5R10Zpoi4RqFBi4c=w1256-h779)
+![](https://googledrive.com/host/0B1dxVSy0NgWdcGJVU21hMFVmSjQ)
+![](https://googledrive.com/host/0B1dxVSy0NgWdMXJqbnJodjZVbkE)
 
 ##三、目標三：促進電子商務環境的安全與安心
 ###(一)推動消費者跨域交易紛爭解決機制：行政院消費者保護處
-![](https://lh3.googleusercontent.com/vk6Ju1ZWBm0G3ZduK_yHItOl5TkdJQ5mROXCuC_-tWd7rxhue_F_SRsTB50l-9n8M1icfxi3ZFs=w1256-h779)
-
+![](https://googledrive.com/host/0B1dxVSy0NgWdeFlRYnlKenJHcEk)
 ###(二)強化網路公民參與機制：國家發展委員會
-![](https://lh3.googleusercontent.com/oVaqvR1D8s9FDMyTRAZKiszgAAoRkK2Ek2A_W5Ks9zFi_q10r5s-SL-Fw3VS0ntnJvQn47xSh6k=w1256-h779)
-
+![](https://googledrive.com/host/0B1dxVSy0NgWdZHhVN2RJZWxTZmc)
 ###(三)落實政府資料開放：國家發展委員會
-![](https://lh4.googleusercontent.com/T77IMJBH3V_z2cqilNolX6dw7Dl7KMJNsQh34yf3SrJmfyvzmPKoafDnx5g5rLu77LIeFf4DyqY=w1256-h779)
-![](https://lh4.googleusercontent.com/6dXnI6EI8tpk41NIhrrEossQWVeStxWKNS8f5qfQIlGac1cPjDDCs-Hrpmw9oteU1YkjFne3pVY=w1256-h779)
-
+![](https://googledrive.com/host/0B1dxVSy0NgWdQnNxWkpwR3pKYVE)
+![](https://googledrive.com/host/0B1dxVSy0NgWdcUd2TWdyN1E0cG8)
 ###(四)防範網路犯罪：法務部
-![](https://lh3.googleusercontent.com/RAPFFS5ZXo9Ne9HqJmpyUBDcS51Jwhnmixpmi-miIcwqYyljPz8-Pp0cvzSUeq68U3yNaFYccJw=w1256-h779)
+![](https://googledrive.com/host/0B1dxVSy0NgWdYm9DVWRVV0dIRzg)
 
 #柒、結語
 虛擬世界具有持續且迅速變動之特性，其相關法規範亦需隨時檢視、與時俱進。我國具有優良之網路科技技術及人才，未來面對全球市場、全球資金及全球人才之快速流動、競爭，應積極運用既有優勢與利基，並以前瞻、開放、創新之觀點，加速相關法規之調適，以促進相關產業之蓬勃發展。本方案所列之部會分工為本工作之開端，將透過持續檢視相關法令，以建構足以面對虛擬世界發展之法制環境。
