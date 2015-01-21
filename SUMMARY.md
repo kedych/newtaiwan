@@ -5,6 +5,7 @@
    * [資訊環境整備](infra/envir.md)
    * [虛擬世界法規](infra/law.md)
        * 說明
+       * 國際趨勢
    * [網路資安隱私](infra/privacy.md)
 * [透明治理](gover.md)
    * [政府資料開放](gover/opendta.md)
