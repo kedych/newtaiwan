@@ -7,7 +7,6 @@
    * [網路資安隱私](infra/privacy.md)
 * [透明治理](gover.md)
    * [政府資料開放](gover/opendta.md)
-       * 2.1.1 test
    * [政策參與平台](gover/strjoin.md)
    * [數位政府服務](gover/govserv.md)
 * [智慧生活](smart.md)
