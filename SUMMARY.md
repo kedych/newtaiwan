@@ -5,7 +5,7 @@
    * [資訊環境整備](infra/envir.md)
    * [虛擬世界法規](infra/law.md)
        * [壹、國際趨勢](er_3001_guo_ji_qu_shi.md)
-       * [参、我國現況點](can_3001_wo_guo_xian_kuang_dian.md)
+       * [貳、我國現況點](can_3001_wo_guo_xian_kuang_dian.md)
        * [肆、政府作為](si_3001_zheng_fu_zuo_wei.md)
    * [網路資安隱私](infra/privacy.md)
 * [透明治理](gover.md)
