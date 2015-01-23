@@ -4,7 +4,6 @@
 * [基礎環境](infra.md)
    * [資訊環境整備](infra/envir.md)
    * [虛擬世界法規](infra/law.md)
-       * [臺、說明](tai_3001_shuo_ming.md)
        * [貳、國際趨勢](er_3001_guo_ji_qu_shi.md)
        * [参、我國現況點](can_3001_wo_guo_xian_kuang_dian.md)
        * [肆、政府作為](si_3001_zheng_fu_zuo_wei.md)
