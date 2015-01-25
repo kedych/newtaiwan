@@ -3,7 +3,7 @@
 * [簡介](README.md)
 * [基礎環境](infra.md)
    * [資訊環境整備](infra/envir.md)
-   * [虛擬世界法規](infra/law.md)
+   * [虛擬世界法規](infra/law1.md)
      * [討論議題1](infra/討論議題1.md)
      * [討論議題2](infra/討論議題2.md)
    * [虛擬世界法規](infra/law.md)
