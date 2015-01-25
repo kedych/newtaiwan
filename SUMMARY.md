@@ -4,7 +4,7 @@
 * [基礎環境](infra.md)
    * [資訊環境整備](infra/envir.md)
    * [虛擬世界法規](infra/law.md)
-       * [討論議題1](infra/討論議題1.md)
+     * [討論議題1](infra/討論議題1.md)
        * [壹、國際趨勢](er_3001_guo_ji_qu_shi.md)
        * [貳、我國現況點](can_3001_wo_guo_xian_kuang_dian.md)
        * [參、政府作為](si_3001_zheng_fu_zuo_wei.md)
