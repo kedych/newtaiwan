@@ -4,8 +4,5 @@
         "disqus"
     ],
     "pluginsConfig": {
-        "ga":{
-            "tokan": "UA-58937184-1"
-        }
     }
 }
