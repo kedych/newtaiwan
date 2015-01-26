@@ -5,7 +5,7 @@
     ],
     "pluginsConfig": {
         "ga": {
-            "tokan": "UA-58937184-1"
+            "token": "UA-58937184-1"
         },
         "disqus": {
             "shortName": "newTaiwan"
