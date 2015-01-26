@@ -5,11 +5,4 @@
             "shortName": "newtaiwan"
         }
     }
-    
-    "plugins": ["ga"],
-    "pluginsConfig": {
-        "ga": {
-            "token": "UA-58937184-1"
-        }
-    }
 }
