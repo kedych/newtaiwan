@@ -1,11 +1,8 @@
 {
-    "plugins": ["disqus","ga"]
+    "plugins": ["disqus"]
     "pluginsConfig": {
         "disqus": {
             "shortName": "newtaiwan"
-        }
-        "ga":{
-            "tokan": "UA-58937184-1"
         }
     }
 }
