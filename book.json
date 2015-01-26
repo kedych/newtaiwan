@@ -6,8 +6,6 @@
         }
     }
 
-}
-{
      "plugins": ["ga"],
      "pluginsConfig": {
         "ga": {
