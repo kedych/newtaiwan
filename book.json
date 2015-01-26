@@ -1,15 +1,11 @@
 {
-    "plugins": [
-        "disqus"
-    ],
+    "plugins": ["disqus"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "newtaiwan"
         }
     }
-}
-
-{
+    
     "plugins": ["ga"],
     "pluginsConfig": {
         "ga": {
