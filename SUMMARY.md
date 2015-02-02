@@ -11,7 +11,7 @@
    * [公共政策參與](gover/strjoin.md)
    * [數位政府服務](gover/govserv.md)
    * 政府資料開放
-   * 數位政府服務
+   * [數位政府服務](shu_wei_zheng_fu_fu_wu.md)
 * [智慧生活](smart.md)
    * [智慧健康照護](smart/health.md)
    * [數位教育](smart/elearn.md)
