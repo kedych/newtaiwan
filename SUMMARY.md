@@ -7,7 +7,6 @@
        * [現況與檢討討論](infra/討論議題1.md)
        * [打造臺灣成為網路公司的樞紐](infra/討論議題2.md)
    * [虛擬世界法規](infra/law.md)
-       * [國際趨勢](er_3001_guo_ji_qu_shi.md)
        * [國內現況與檢討](can_3001_wo_guo_xian_kuang_dian.md)
        * [政府作為](si_3001_zheng_fu_zuo_wei.md)
        * [討論議題1](infra/討論議題1.md)
