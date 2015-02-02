@@ -2,7 +2,6 @@
 
 * [簡介](README.md)
 * [基礎環境](infra.md)
-   * [資訊環境整備](infra/envir.md)
    * [虛擬世界法規](infra/law1.md)
        * [現況與檢討討論](infra/討論議題1.md)
        * [打造臺灣成為網路公司的樞紐](infra/討論議題2.md)
