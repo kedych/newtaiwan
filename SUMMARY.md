@@ -6,7 +6,7 @@
        * [現況與檢討討論](infra/討論議題1.md)
        * [打造臺灣成為網路公司的樞紐](infra/討論議題2.md)
    * [資通訊環境整備](zi_tong_xun_huan_jing_zheng_bei.md)
-   * 網路資安隱私
+   * [網路資安隱私](wang_lu_zi_an_yin_si.md)
 * [透明治理](gover.md)
    * [公共政策參與](gover/strjoin.md)
    * 政府資料開放
