@@ -1,3 +1,5 @@
+<iframe src="//www.slideshare.net/slideshow/embed_code/44139351" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ssusera05b0b/20150130-44139351" title="子題一虛擬世界法規20150130" target="_blank">子題一虛擬世界法規20150130</a> </strong> from <strong><a href="//www.slideshare.net/ssusera05b0b" target="_blank">麗華 程</a></strong> </div>
+
 #一、背景說明
 隨著科技發展、頻寬提升與行動載具、智慧聯網之廣泛應用，產業發展與民眾生活已由實體延伸至網路世界，產生新興產業類型及新型態法律關係。國內現行法制架構係以傳統製造業思考模式為基礎，與網路世界無國界、自律管理之特性將產生扞格，故有必要及早檢視相關法規適用面臨之問題並研擬因應對策。
 #二、國際發展趨勢
