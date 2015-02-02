@@ -9,7 +9,6 @@
    * [網路資安隱私](infra/privacy.md)
 * [透明治理](gover.md)
    * [公共政策參與](gover/strjoin.md)
-       * 政府資料開放
    * [數位政府服務](gover/govserv.md)
 * [智慧生活](smart.md)
    * [智慧健康照護](smart/health.md)
