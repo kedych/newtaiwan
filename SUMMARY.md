@@ -9,6 +9,7 @@
    * [網路資安隱私](wang_lu_zi_an_yin_si.md)
 * [透明治理](gover.md)
    * [公共政策參與](gover/strjoin.md)
+       * 政府與民眾之間良好的溝通管道需要具備什麼樣的條件？
    * 政府資料開放
    * [數位政府服務](shu_wei_zheng_fu_fu_wu.md)
 * [智慧生活](smart.md)
