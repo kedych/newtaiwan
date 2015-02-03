@@ -1,2 +1,2 @@
 # 網路金融
-
+<iframe src="//www.slideshare.net/slideshow/embed_code/44210408" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ssusera05b0b/ss-44210408" title="網路金融" target="_blank">網路金融</a> </strong> </div>
