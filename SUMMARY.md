@@ -11,6 +11,7 @@
    * [公共政策參與](gover/strjoin.md)
        * [政府與民眾之間良好的溝通管道需要具備什麼樣的條件？](zheng_fu_yu_min_zhong_zhi_jian_liang_hao_de_gou_tong_guan_dao_xu_yao_ju_bei_shi_me_yang_de_tiao_jian_ff1f.md)
        * [您對公共政策網路參與的願景是什麼？](nin_dui_gong_gong_zheng_ce_wang_lu_can_yu_de_yuan_jing_shi_shi_me_ff1f.md)
+       * 未來10年公共政策網路參與能做到何程度？
    * 政府資料開放
    * [數位政府服務](shu_wei_zheng_fu_fu_wu.md)
 * [智慧生活](smart.md)
