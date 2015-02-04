@@ -10,13 +10,17 @@
 在全球性社會發展環境變遷中，各國政府紛紛採取作為，以開放多元管道，匯聚外部意見，強化公共治理效能。分析國際網路參與之做法，分為公民網路參與和請願連署二種方式，分述如下：
 ##一、公民網路參與
 ###(一)[新加坡公民參與平臺 【REACH】](https://www.reach.gov.sg/Home.aspx)
+![](reach.jpg)
 於2006年10月推出，以蒐集公眾意見為主，成為政府機關與民眾互動的平臺。2009年1月，REACH (reaching everyone for active citizenry @ home)正式成為新加坡政府的電子化公民參與平臺。
 ###(二)[韓國人民線上陳情及討論入口網站【E-People】](http://www.epeople.go.kr/jsp/user/UserMain.jsp) 
+![](epeople.jpg)
 該網站成立於2005年，主要目的是提供整合的資訊和服務，以及鼓勵民眾參與政府決策過程的電子化政府單一入口。該網站整併原有網站，分別為民眾陳情(Civil Petition)、線上論壇(Policy Discussion)與保護民眾權利(Corruption Reporting, and Administrative Judgement)，並陸續進行相關系統之整合，於2008年完成整合43個中央部會、246地方政府及14公共機構之機制。
 ##二、請願連署
 ###(一)[美國白宮請願網【We the People】](https://petitions.whitehouse.gov/) 
+![](wethepeople.jpg)
 【We the People】於2011年9月成立，提供民眾針對當前政府政策請願的管道，達到連署門檻，政策相關單位將進行審閱，並可獲得正式的官方回應。
 ###(二)[英國國會電子請願【e-petitions】](http://epetitions.direct.gov.uk/)
+![](epetitions.jpg)
 英國國會於2011年夏天正式推出電子請願服務 ，目的是提供大眾能夠參與政治的管道。進行請願或參加簽署者，必須是英國國民或生活在英國的居民。於達到一定比例後，提案會進入立法程序。
 #參、國內現況與檢討
 檢視我國過去及近期公民運用網路參與施政意見之經驗、運作機制等歷程，分述如下：
