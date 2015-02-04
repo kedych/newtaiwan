@@ -22,6 +22,7 @@
        * [參與式服務規劃，需求由你提](can_yu_shi_fu_wu_gui_hua_ff0c_xu_qiu_you_ni_ti.md)
        * [不再政府有資料，你我沒管道](bu_zai_zheng_fu_you_zi_liao_ff0c_ni_wo_mei_guan_dao.md)
        * [如何讓老人家活得開心、活得精采，你我都關心](ru_he_rang_lao_ren_jia_huo_de_kai_xin_3001_huo_de_jing_cai_ff0c_ni_wo_du_guan_xin.md)
+       * 如何幫助新住民、身障朋友取得網路服務
 * [智慧生活](smart.md)
    * [智慧健康照護](smart/health.md)
    * [數位教育](smart/elearn.md)
