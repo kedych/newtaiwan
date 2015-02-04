@@ -26,7 +26,7 @@
 * [智慧生活](smart.md)
    * [智慧健康照護](smart/health.md)
    * [數位教育](smart/elearn.md)
-   * [網路與文化娛樂](smart/entir.md)
+   * [網路媒體與文化娛樂](smart/entir.md)
    * [智慧體驗服務](smart/media.md)
 * [網路經濟](econo.md)
    * [創新創業](econo/innov.md)
