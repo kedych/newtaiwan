@@ -39,4 +39,5 @@
    * [智慧城鄉](spatial/villa.md)
        * [建築管理智慧化服務](jian_zhu_guan_li_zhi_hui_hua_fu_wu.md)
        * [推動智慧綠建築、社區與城市](tui_dong_zhi_hui_lv_jian_zhu_3001_she_qu_yu_cheng_shi.md)
+       * 社區居住安全監控機制
 
