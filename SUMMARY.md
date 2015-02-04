@@ -37,5 +37,5 @@
        * [鐵路運輸訂票系統暨即時營運資訊與事件通報](tie_lu_yun_shu_ding_piao_xi_tong_ji_ji_shi_ying_yun_zi_xun_yu_shi_jian_tong_bao.md)
        * [旅遊資訊及觀光遊憩區塞車路況](lv_you_zi_xun_ji_guan_guang_you_qi_qu_sai_che_lu_kuang.md)
    * [智慧城鄉](spatial/villa.md)
-       * 建築管理智慧化服務
+       * [建築管理智慧化服務](jian_zhu_guan_li_zhi_hui_hua_fu_wu.md)
 
