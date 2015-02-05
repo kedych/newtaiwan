@@ -4,6 +4,7 @@
 * [基礎環境](infra.md)
    * [虛擬世界法規](infra/law1.md)
    * [資通訊環境整備](zi_tong_xun_huan_jing_zheng_bei.md)
+       * 如何協助中小企業創新，藉此搶攻物聯網商機，發展新興應用產品與服務？
    * [網路資安隱私](wang_lu_zi_an_yin_si.md)
 * [透明治理](gover.md)
    * [公共政策參與](gover/strjoin.md)
