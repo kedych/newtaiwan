@@ -13,6 +13,7 @@
    * [網路資安隱私](wang_lu_zi_an_yin_si.md)
        * [如何加強網路隱私保護，以因應大數據時代來臨?](ru_he_jia_qiang_wang_lu_yin_si_bao_hu_ff0c_yi_yin_ying_da_shu_ju_shi_dai_lai_81e83f.md)
        * [如何培育量足質精的資安人才，以確保國家安全及社會穩定?](ru_he_pei_yu_liang_zu_zhi_jing_de_zi_an_ren_cai_ff0c_yi_que_bao_guo_jia_an_quan_ji_she_hui_wen_5b9a3f.md)
+       * 如何提升資安自主技術研發能量，厚植資安產業競爭力?
 * [透明治理](gover.md)
    * [公共政策參與](gover/strjoin.md)
        * [Join us!打造未來網路參與公共政策的藍圖!](zheng_fu_yu_min_zhong_zhi_jian_liang_hao_de_gou_tong_guan_dao_xu_yao_ju_bei_shi_me_yang_de_tiao_jian_ff1f.md)
