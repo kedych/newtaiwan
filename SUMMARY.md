@@ -6,7 +6,7 @@
    * [資通訊環境整備](zi_tong_xun_huan_jing_zheng_bei.md)
        * [如何協助中小企業創新，藉此搶攻物聯網商機，發展新興應用產品與服務？](ru_he_xie_zhu_zhong_xiao_qi_ye_chuang_xin_ff0c_jie_ci_qiang_gong_wu_lian_wang_shang_ji_ff0c_fa_zhan_xin_xing_ying_yong_chan_pin_yu_fu_wu_ff1f.md)
        * [如何提升自主技術研發能量，厚植巨量資料產業競爭力？](ru_he_ti_sheng_zi_zhu_ji_shu_yan_fa_neng_liang_ff0c_hou_zhi_ju_liang_zi_liao_chan_ye_jing_zheng_li_ff1f.md)
-       * 如何接軌國際資通標準，以迎接5G智慧網絡時代的新契機?
+       * [如何接軌國際資通標準，以迎接5G智慧網絡時代的新契機?](ru_he_jie_gui_guo_ji_zi_tong_biao_zhun_ff0c_yi_ying_jie_5g_zhi_hui_wang_luo_shi_dai_de_xin_qi_6a5f3f.md)
    * [網路資安隱私](wang_lu_zi_an_yin_si.md)
 * [透明治理](gover.md)
    * [公共政策參與](gover/strjoin.md)
