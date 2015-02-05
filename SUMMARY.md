@@ -3,7 +3,6 @@
 * [簡介](README.md)
 * [基礎環境](infra.md)
    * [虛擬世界法規](infra/law1.md)
-       * [打造臺灣成為網路公司的樞紐](infra/討論議題2.md)
    * [資通訊環境整備](zi_tong_xun_huan_jing_zheng_bei.md)
    * [網路資安隱私](wang_lu_zi_an_yin_si.md)
 * [透明治理](gover.md)
