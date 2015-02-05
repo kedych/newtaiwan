@@ -11,7 +11,7 @@
        * [如何提升自主技術研發能量，厚植巨量資料產業競爭力？](ru_he_ti_sheng_zi_zhu_ji_shu_yan_fa_neng_liang_ff0c_hou_zhi_ju_liang_zi_liao_chan_ye_jing_zheng_li_ff1f.md)
        * [如何接軌國際資通標準，以迎接5G智慧網絡時代的新契機?](ru_he_jie_gui_guo_ji_zi_tong_biao_zhun_ff0c_yi_ying_jie_5g_zhi_hui_wang_luo_shi_dai_de_xin_qi_6a5f3f.md)
    * [網路資安隱私](wang_lu_zi_an_yin_si.md)
-       * 如何加強網路隱私保護，以因應大數據時代來臨?
+       * [如何加強網路隱私保護，以因應大數據時代來臨?](ru_he_jia_qiang_wang_lu_yin_si_bao_hu_ff0c_yi_yin_ying_da_shu_ju_shi_dai_lai_81e83f.md)
 * [透明治理](gover.md)
    * [公共政策參與](gover/strjoin.md)
        * [Join us!打造未來網路參與公共政策的藍圖!](zheng_fu_yu_min_zhong_zhi_jian_liang_hao_de_gou_tong_guan_dao_xu_yao_ju_bei_shi_me_yang_de_tiao_jian_ff1f.md)
